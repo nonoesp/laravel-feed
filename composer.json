@@ -1,5 +1,5 @@
 {
-  "name": "macpaw/feed",
+  "name": "laravelium/feed",
   "description": "Laravelium Feed package for Laravel.",
   "homepage": "https://laravelium.com",
   "keywords": [
@@ -12,13 +12,13 @@
   ],
   "license": "MIT",
   "require": {
-    "php": ">=8.1",
-    "illuminate/support": "^9.0",
-    "illuminate/filesystem": "^9.0"
+    "php": "^8.1",
+    "illuminate/support": "^10.4",
+    "illuminate/filesystem": "^10.4"
   },
   "require-dev": {
-    "laravel/framework": "^9.0",
-    "phpunit/phpunit": "^9.3",
+    "laravel/framework": "^10.0",
+    "phpunit/phpunit": "^10.0",
     "orchestra/testbench-core": "^6.0"
   },
   "autoload": {
